@@ -24,3 +24,7 @@
 ## 源码解析
 
 - [Redux源码分析 —— compose实现](https://github.com/lihuakkk/blog/issues/1)
+
+## AngularJs
+
+- [深入分析Angularjs中指令link执行的顺序](https://github.com/lihuakkk/blog/issues/6)
