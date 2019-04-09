@@ -2,6 +2,10 @@
 
 > 李华坤，高级前端开发工程师。2015年毕业起就使用AngularJS+Ionic做Hybird App开发，先后开发过6个Hybird App，和多个系统后台。专注于前端性能优化、工程化。追求完美，喜欢Angular，爱好足球。
 
+## 随笔
+
+- [关于抽象](https://github.com/lihuakkk/blog/issues/9)
+
 ## Angular
 
 - [两种方法提升Angular2 ChangeDetection的效率](https://github.com/lihuakkk/blog/issues/7)
