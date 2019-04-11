@@ -28,3 +28,11 @@
 ## AngularJs
 
 - [深入分析Angularjs中指令link执行的顺序](https://github.com/lihuakkk/blog/issues/6)
+
+## leetcode笔记
+
+- [位运算](https://github.com/lihuakkk/blog/issues/10)
+
+- [分治策略](https://github.com/lihuakkk/blog/issues/11)
+
+- [逻辑分析](https://github.com/lihuakkk/blog/issues/12)
