@@ -2,11 +2,12 @@
 
 > 李华坤，2015年毕业于中国石油大学（华东），居住在杭州，高级前端开发工程师。主要技术栈Angular，Vue。个人能力：需求整理分析，应用重构，组件开发，性能优化，源码分析，技术分享。
 
-## 随笔
+## 编程
 
 - [抽象](https://github.com/lihuakkk/blog/issues/9)
 - [重构](https://github.com/lihuakkk/blog/issues/18)
 - [编程心得](https://github.com/lihuakkk/blog/issues/19)
+- [团队协作](https://github.com/lihuakkk/blog/issues/20)
 
 ## 工具
 
