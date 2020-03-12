@@ -4,7 +4,9 @@
 
 ## 随笔
 
-- [关于抽象](https://github.com/lihuakkk/blog/issues/9)
+- [抽象](https://github.com/lihuakkk/blog/issues/9)
+- [重构](https://github.com/lihuakkk/blog/issues/18)
+- [编程心得](https://github.com/lihuakkk/blog/issues/19)
 
 ## 工具
 
