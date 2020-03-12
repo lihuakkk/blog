@@ -6,6 +6,10 @@
 
 - [关于抽象](https://github.com/lihuakkk/blog/issues/9)
 
+## 工具
+
+- [常用函数](https://github.com/lihuakkk/blog/issues/13)
+
 ## Angular
 
 - [两种方法提升Angular2 ChangeDetection的效率](https://github.com/lihuakkk/blog/issues/7)
