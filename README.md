@@ -15,7 +15,7 @@
 - [axios封装](https://github.com/lihuakkk/blog/tree/master/axios)
 - [localStorage封装](https://github.com/lihuakkk/blog/tree/master/localstorage)
 - [AWS S3上传封装](https://github.com/lihuakkk/blog/tree/master/s3Uplaod.js)
-- [WebSocket封装]https://github.com/lihuakkk/blog/tree/master/websocket)
+- [WebSocket封装](https://github.com/lihuakkk/blog/tree/master/websocket)
 
 ## Angular
 
