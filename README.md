@@ -12,10 +12,10 @@
 ## 工具
 
 - [常用函数](https://github.com/lihuakkk/blog/issues/13)
-- [axios封装](https://github.com/lihuakkk/blog/issues/14)
-- [localStorage封装](https://github.com/lihuakkk/blog/issues/15)
-- [AWS S3上传封装](https://github.com/lihuakkk/blog/issues/16)
-- [WebSocket封装](https://github.com/lihuakkk/blog/issues/17)
+- [axios封装](https://github.com/lihuakkk/blog/tree/master/axios)
+- [localStorage封装](https://github.com/lihuakkk/blog/tree/master/localstorage)
+- [AWS S3上传封装](https://github.com/lihuakkk/blog/tree/master/s3Uplaod.js)
+- [WebSocket封装]https://github.com/lihuakkk/blog/tree/master/websocket)
 
 ## Angular
 
